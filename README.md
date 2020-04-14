@@ -1,2 +1,2 @@
-# telerigos-gmail.com
+# GitResearch
 JGitRepo
